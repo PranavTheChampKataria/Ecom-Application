@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ecom-application",
+    "slug": "ecom-application",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
